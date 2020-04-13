@@ -1,0 +1,56 @@
+object FormResultado: TFormResultado
+  Left = 0
+  Top = 0
+  Caption = 'FormResultado'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PanelResultado: TPanel
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 299
+    Align = alClient
+    Color = clWhite
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitLeft = 312
+    ExplicitTop = 168
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object LabelResultado: TLabel
+      Left = 144
+      Top = 117
+      Width = 208
+      Height = 58
+      Caption = 'Resultado'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -48
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object LabelCondicoes: TLabel
+      Left = 184
+      Top = 216
+      Width = 248
+      Height = 45
+      Caption = 'LabelCondicoes'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -37
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+  end
+end

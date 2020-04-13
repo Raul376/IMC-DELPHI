@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/02 13:29:11.000.223,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:19:39.000.872,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/02 14:20:22.000.530,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 13:26:36.000.543,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:54:27.323,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:54:35.138,=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/08 12:54:58.996,C:\Users\Desktop\Documents\Delphi Curso\IMC\uFrmPrincipal.dfm=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/08 12:54:58.996,C:\Users\Desktop\Documents\Delphi Curso\IMC\uFrmPrincipal.pas=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:55:14.382,C:\Users\Desktop\Documents\Delphi Curso\IMC\uFrmResultado.pas=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/08 12:55:14.382,C:\Users\Desktop\Documents\Delphi Curso\IMC\uFrmResultado.dfm=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/04/08 12:55:22.135,C:\Users\Desktop\Documents\Delphi Curso\IMC\App.Calculo.IMC=C:\Users\Desktop\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

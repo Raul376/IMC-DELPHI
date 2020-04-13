@@ -1,0 +1,48 @@
+object FormResul: TFormResul
+  Left = 0
+  Top = 0
+  Caption = 'FormResul'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 299
+    Align = alClient
+    TabOrder = 0
+    ExplicitLeft = 336
+    ExplicitTop = 200
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object LResultado: TLabel
+      Left = 256
+      Top = 32
+      Width = 159
+      Height = 45
+      Caption = 'Resultado'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -37
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+    end
+    object EditIMC: TEdit
+      Left = 200
+      Top = 112
+      Width = 241
+      Height = 69
+      TabOrder = 0
+    end
+  end
+end
